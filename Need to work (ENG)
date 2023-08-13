@@ -1,0 +1,33 @@
+        Requirements for the ppogram to work properly: 
+1. Every time new data comes into the table, they will need to be transferred or transferred to the table
+at this address: "C:\Users\Administrator\Downloads\sample.xlsx", or delete this 
+table and load the on-line table 
+  1.1 How to download an online Excel table
+  1.2 Open the table in Google 
+  1.3 Click "File"
+  1.4 Select "Download" 
+  1.5 In the list select "Microsoft Excel (XLSX)
+  1.6 Rename loaded table to "sample.xlsx" 
+  1.7 The application recognizes the new entry by its +1 number. I mean, we have to do 
+      new row with the number of the new entry +1
+
+2. Keep organization and counterparty information in format Organization (full name as in 1C) - counterparty (full title as in 2C)
+                                                                                              ^
+                                                                                      this symbol is mandatory
+                                                                                      because the software understands that the left
+                                                                                      from this symbol the name of the organization
+                                                                                      and the name of the counterparty 
+
+3. When these conditions are met, you can start "Start.exe". 
+Unable to: 
+	1. Turn the computer off 
+	2. Exit Remote Access
+	3. Move Mouse 
+	4. Close 1C 
+	5. Press keyboard buttons 
+	6. Open Other Applications 
+
+
+Completion
+When the program is finished, all the downloaded files will be located along this path:
+"C:\Users\Administrator\Downloads" 
